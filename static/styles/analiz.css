@@ -1,0 +1,13 @@
+.main-container {
+    background-color: rgb(31, 29, 30) ;
+}
+
+span {
+    color: gold;
+}
+
+
+.footer-text>p {
+    justify-content: center;
+    align-items: center;
+}

@@ -1,0 +1,38 @@
+ h1 {
+    text-align: center;
+    
+    
+    color:gold
+    
+}
+
+span {
+    
+    color:gold
+}
+
+.main-conteiner {
+    background-color: rgb(31, 29, 28);
+}
+
+
+ 
+.footer-text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: aliceblue;
+}
+
+
+
+.text-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:white;
+}
+    
+    
+    
+
